@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @TheGeometric7
+- 👀 I’m interested in coding sites, games, and frameworks.
+- 🌱 I’m currently learning Python and C languages.
+- 🧠 I currently know HTML, CSS, JavaScript, and basic Python.
+- 📫 If you need to reach me, email me at thegeometric7@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I run Cross Country, Distance in Track, Road Runs, and Trail Runs.
