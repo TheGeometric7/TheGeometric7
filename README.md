@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TheGeometric7
-- 👀 I’m interested in coding sites, games, and frameworks.
-- 🌱 I’m currently learning Python and C languages.
-- 🧠 I currently know HTML, CSS, JavaScript, and basic Python.
+- 👋 Hey y'all, the name's @thegeometric7
+- 👀 I code sites, games, and frameworks
+- 🧠 I currently know HTML, CSS, JavaScript, TypeScript, and a bit of Python and C#
+- 🌱 Right now, I'm learning C++ while strengthening my Python and C# skills
 - 📫 If you need to reach me, email me at thegeometric7@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I run Cross Country, Distance in Track, Road Runs, and Trail Runs.
+- 😎 I'm a straight white male who uses He/Him/His pronouns
+- ⚡ Not that it matters, but I run Cross Country, Distance in Track, Road Runs, and Trail Runs
